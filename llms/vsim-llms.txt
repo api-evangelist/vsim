@@ -1,0 +1,18 @@
+# Vsim
+
+> Vsim (Vsim Technology Ltd) is a Manchester, UK physics-simulation startup founded in 2022 by ex-NVIDIA simulation engineers Michelle Lu (CEO) and Kier Storey (CTO). It builds a next-generation physics simulation platform and an end-to-end reinforcement-learning training framework for robotics, reporting up to 100x training speed-ups over existing solutions. Backed by a $21.5M seed round led by EQT Ventures (total ~$24M). Vsim does not currently publish a public API, developer portal, or SDKs.
+
+## Company
+
+- [Website](https://v-sim.co.uk/): Vsim - Next-gen Physics Simulation Platform
+- [Contact](https://v-sim.co.uk/contact): Contact the Vsim team
+- [Introducing Vsim](https://v-sim.co.uk/introducing-vsim:-the-future-of-physics-simulation): Launch announcement
+- [EQT portfolio profile](https://eqtgroup.com/about/current-portfolio/vsim): Investor profile
+
+## APIs
+
+No public APIs are documented as of 2026-07-21.
+
+## Machine-Readable
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/vsim/refs/heads/main/apis.yml): API Evangelist profile for Vsim
